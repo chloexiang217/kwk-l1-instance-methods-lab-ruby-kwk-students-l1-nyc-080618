@@ -5,5 +5,5 @@ def Person
   end
   def walk 
     puts "The Person is walking"
-  def
+  end
 end
