@@ -4,7 +4,6 @@ class Dog
   @bark = bark
   @sit = sit 
 end
-Dog = Dog.new("Woof!", "sitting")
 
 
 # #### 2. Define `#bark` in `Dog`
