@@ -7,3 +7,6 @@ def Person
     puts "The Person is walking"
   end
 end
+
+sophia = Person.new 
+sophia.talk
