@@ -3,6 +3,7 @@ class Dog(bark, sit)
   @bark = bark
   @sit = sit 
 end
+def @bark
 
 
 # #### 2. Define `#bark` in `Dog`
