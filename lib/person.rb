@@ -8,5 +8,6 @@ class Person
   end
 end
 
+#example of a person (instance) would produce the same results of Hello World and Person is walking based on if they walk or talk 
 sophia = Person.new 
 sophia.talk
